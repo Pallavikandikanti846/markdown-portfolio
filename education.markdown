@@ -7,6 +7,5 @@ I am currently a student of Humber College, Toronto, enrolled in Web Development
 
 [About Me](index.markdown)
 [Employment](employment.markdown)
-[Education](education.markdown)
 [Contact](contact.markdown)
 [Projects](projects.markdown)
