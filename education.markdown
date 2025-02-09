@@ -9,3 +9,4 @@ I am currently a student of Humber College, Toronto, enrolled in Web Development
 [Employment](employment.markdown)
 [Education](education.markdown)
 [Contact](contact.markdown)
+[Projects](projects.markdown)
