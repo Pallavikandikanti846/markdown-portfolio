@@ -1,6 +1,6 @@
 # Employment
 
-This is my Employment Page...
+I have an 3 years of industry experience in Manual and Automation Testing, Front-End Development.
 
 [About Me](index.markdown)
 [Employment](employment.markdown)
