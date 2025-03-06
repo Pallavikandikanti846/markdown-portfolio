@@ -1,4 +1,4 @@
-#Projects
+**Projects**
 
 Checkout my projects in my GitHub account.
 
