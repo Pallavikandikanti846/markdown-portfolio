@@ -1,12 +1,11 @@
 # Employment History
 
-<<<<<<< HEAD
+
 I have an 3.3 years of industry experience in Automation testing using Selenium, along with that I have developed some features of a web page using Front-End technologies.
-=======
+
 I worked as a ***Senior Systems Associate***  in ***Infosys Limited***, Hyderabad.
 
 I have an 3 years of industry experience in Manual and Automation Testing, Front-End Development.
->>>>>>> c34f695f374f8b58142ddc7b4572926508383601
 
 [About Me](index.markdown)
 [Education](education.markdown)
